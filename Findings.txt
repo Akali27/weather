@@ -1,0 +1,3 @@
+1) The higher the city latitude is, the lower its temperature will be 
+2) There isn't a high correlation between city latitude and humidity 
+3) There is absloutley no relation between city latitude and cloudiness 
